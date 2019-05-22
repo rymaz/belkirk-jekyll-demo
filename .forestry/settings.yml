@@ -6,6 +6,10 @@ webhook_url:
 sections:
 - type: heading
   label: Content
+- type: document
+  path: test.htm
+  label: Test
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
