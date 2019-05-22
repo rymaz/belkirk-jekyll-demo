@@ -37,8 +37,8 @@ sections:
 - type: document
   path: _data/information.yml
   label: Contact Information
-upload_dir: ''
-public_path: http://rm-forestryservermedia.s3-website.ca-central-1.amazonaws.com
+upload_dir: media
+public_path: http://rm-forestryservermedia.s3-website.ca-central-1.amazonaws.com/media
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
