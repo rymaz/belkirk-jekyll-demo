@@ -1,9 +1,9 @@
 ---
 heading: New Test Page
-sub_heading: Sub Heading
+sub_heading: SubHeading
 layout: home
 title: TestPage
-banner_image: ''
+banner_image: https://s3.ca-central-1.amazonaws.com/rm-forestryservermedia/media/howWeWork.jpg
 hero_button:
   text: ''
   href: ''
