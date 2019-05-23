@@ -1,1 +1,6 @@
---- {}
+---
+navigation:
+- url: https://www.google.com
+  weight: 1
+  parent: _projects
+  title: Test2
