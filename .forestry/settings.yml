@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: test.htm
+  path: testpage/index.html
   label: Test
 - type: jekyll-posts
   label: Posts
